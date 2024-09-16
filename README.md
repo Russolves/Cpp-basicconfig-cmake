@@ -7,7 +7,7 @@ Boilerplate code for configuring C++ and CMake basic configuration on VS code
 2. [CMake](#cmake)
 
 ## **Basic Configuration for C++ to run on VS code**
-Ensure you have the following installed:
+Ensure you have the following installed first:
 - g++
 - VS code
 - C/C++ Extensions on VS code
