@@ -1,5 +1,5 @@
 # C-basicconfig-cmake
-Boilerplate template code for configuring C++ basic configuration on VS code, and cmake
+Boilerplate code for configuring C++ and CMake basic configuration on VS code
 
 ## **Table of Contents**
 
